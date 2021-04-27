@@ -35,7 +35,7 @@ namespace _04_w_2_BankAccaount_Problem2
 
         public override string ToString()
         {
-            return $"ACCOUNT:{id}   Balance:{balance}";
+            return $"ACCOUNT:{id}   Balance:{balance} leva!";
         }
     }
 }

@@ -21,7 +21,7 @@ namespace ConsoleApp1
 
 
 
-            Person p4 = new Person("Tonii", 23);
+            Person p4 = new Person("Tonia", 23);
             p4.Kids.Add("Ani");
             p4.Kids.Add("Aleks");
             p4.Kids.Add("Asen");

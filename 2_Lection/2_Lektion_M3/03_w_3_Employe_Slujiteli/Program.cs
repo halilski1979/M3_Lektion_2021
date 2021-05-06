@@ -11,7 +11,7 @@ namespace _03_w_3_Employe_Slujiteli
         static void Main(string[] args)
         {
             List<Employe> spisakSlujiteli = new List<Employe>();
-            Console.Write("Брой служители: ");
+            //Console.Write("Брой служители: ");
             int n = int.Parse(Console.ReadLine());
 
             for (int i = 0; i < n; i++)
